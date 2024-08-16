@@ -6,6 +6,11 @@
 
 2) Install `jupyter` into venv
 
-`pipenv install jupyter`
+- `pipenv install jupyter`
 
 3) Run jupyter notebooks inside VS Code: https://code.visualstudio.com/docs/datascience/jupyter-notebooks
+
+4) Install extras
+
+- `pipenv install pandas`
+- `pipenv install folium`

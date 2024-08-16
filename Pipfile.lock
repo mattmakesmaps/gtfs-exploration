@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7ac8ff6da88744a7221ae85d14c74475516b8a75e4262785d171a2533eb45bb4"
+            "sha256": "169a13aed467fb5038a404edef0923412b75ffb59148a2fc2814408838c5e159"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -121,6 +121,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==6.1.0"
+        },
+        "branca": {
+            "hashes": [
+                "sha256:853a359c34d08fd06498be762d8be9932750db4049cac11e25dd6f23562e25c2",
+                "sha256:ca4c94643ef31b819987ca5bd19c6009ea17b440baa3aac04628545f7a4da023"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==0.7.2"
         },
         "certifi": {
             "hashes": [
@@ -365,6 +373,15 @@
                 "sha256:5875f0b0fa7a0043a91e93a9b8f793bcbbba9691e7fd83dca95c28ba26d21f0a"
             ],
             "version": "==2.20.0"
+        },
+        "folium": {
+            "hashes": [
+                "sha256:14210d054e9afad6ebac037495508297d78805fcfa16f859fdee10bb7f85c2c1",
+                "sha256:48385df9a3f6ceca23647c2e8d87850c8a6e05b40db63266e7b8c6d2d734d4c6"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==0.17.0"
         },
         "fqdn": {
             "hashes": [
@@ -1431,6 +1448,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==4.0.11"
+        },
+        "xyzservices": {
+            "hashes": [
+                "sha256:58c1bdab4257d2551b9ef91cd48571f77b7c4d2bc45bf5e3c05ac97b3a4d7282",
+                "sha256:fecb2508f0f2b71c819aecf5df2c03cef001c56a4b49302e640f3b34710d25e4"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==2024.6.0"
         }
     },
     "develop": {}
