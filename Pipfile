@@ -8,6 +8,7 @@ jupyter = "*"
 pandas = "*"
 folium = "*"
 matplotlib = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
