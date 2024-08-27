@@ -9,6 +9,7 @@ pandas = "*"
 folium = "*"
 matplotlib = "*"
 python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
